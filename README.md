@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Solomon, a serial entrepreneur and software engineer. 
+
+#### 🔭 I’m currently working on
+My latest venture <a href="https://hoopspots.io">HoopSpots</a>, an app that helps users find and organize pickup basketball games. 
+
+#### 💻 I work as a
+Full time software engineer at <a href="https://nerdery.com">Nerdery</a>. 
+
+#### ❤️ I love working with
+Laravel and PHP and have a YouTube channel called <a href="https://www.youtube.com/channel/UCBZ2iNYgoDhqmXIXoZ-peZQ">Icodestuff</a>, teaching Laravel tutorials where I've amased 60,000+ views. 
 
 <!--
 **Solomon04/solomon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
