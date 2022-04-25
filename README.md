@@ -1,14 +1,12 @@
-### Hi there 👋
-I'm Solomon, a serial entrepreneur and software engineer. 
+# Hi there 👋
+I am a software engineer that loves to find problems and implement technical solutions. As an overly ambitious senior in high school, I learned I had a passion for entrepreneurship & management when l started my first company, FAVR, a two-sided marketplace allowing customers to request chores to be fulfilled by high school/college-age workers. Even though FAVR went bust, the technical skills I picked up while building the product allowed me to be hired as a software engineer right after high school graduation, despite not having a CS degree or Bootcamp cert. My unorthodox journey as a software engineer inspired me to eventually start [Icodestuff](https://www.youtube.com/c/Icodestuff), a YouTube channel teaching short-form programming tutorials that have amassed over 100K views. As of today, I am a full-stack software engineer at Nerdery where I serve our client's needs for frontend (React) & backend (PHP). Furthermore, my passion for entrepreneurship lives on as I am the co-founder & Head of Product at [GoodRun](https://mn.goodrun.app), an application that offers a way for users to play pickup basketball and book gym rentals on a single platform.
 
-#### 🔭 I’m currently working on
-My latest venture <a href="https://hoopspots.io">HoopSpots</a>, an app that helps users find and organize pickup basketball games. 
-
-#### 💻 I work as a
-Full time software engineer at <a href="https://nerdery.com">Nerdery</a>. 
-
-#### ❤️ I love working with
-Laravel and PHP and have a YouTube channel called <a href="https://www.youtube.com/channel/UCBZ2iNYgoDhqmXIXoZ-peZQ">Icodestuff</a>, teaching Laravel tutorials where I've amased 60,000+ views. 
+### Favorite Tech
+- NextJS
+- Laravel
+- Vue
+- React
+- Typescript
 
 <!--
 **Solomon04/solomon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
