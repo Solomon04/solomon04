@@ -1,10 +1,16 @@
 # Hi there 👋
-I am a software engineer that loves to find problems and implement technical solutions. As an overly ambitious senior in high school, I learned I had a passion for entrepreneurship & management when l started my first company, FAVR, a two-sided marketplace allowing customers to request chores to be fulfilled by high school/college-age workers. Even though FAVR went bust, the technical skills I picked up while building the product allowed me to be hired as a software engineer right after high school graduation, despite not having a CS degree or Bootcamp cert. My unorthodox journey as a software engineer inspired me to eventually start [Icodestuff](https://www.youtube.com/c/Icodestuff), a YouTube channel teaching short-form programming tutorials that have amassed over 100K views. As of today, I am a full-stack software engineer at [Nerdery](https://nerdery.com) where I serve our client's needs for frontend (React) & backend (PHP). Furthermore, my passion for entrepreneurship lives on as I am the co-founder & Head of Product at [GoodRun](https://mn.goodrun.app), an application that offers a way for users to play pickup basketball and book gym rentals on a single platform.
 
-tldr:
-- I am a software engineer at Nerdery
-- I am a content creator at Icodestuff
-- I am a co-founder at GoodRun
+### Introduction
+I am Solomon, a software engineer that loves to find problems and implement technical solutions!
+
+### What got me into tech?
+As an overly ambitious senior in high school, I learned I had a passion for entrepreneurship & management when l started my first company, FAVR, a two-sided marketplace allowing customers to request chores to be fulfilled by high school/college-age workers. Even though FAVR went bust, the technical skills I picked up while building the product allowed me to be hired as a software engineer right after high school graduation, despite not having a CS degree or Bootcamp cert.
+
+### What am I doing today?
+- My unorthodox journey as a software engineer inspired me to eventually start [Icodestuff](https://www.youtube.com/c/Icodestuff), a YouTube channel teaching short-form programming tutorials that have amassed over 100K views
+- I am a full-stack software engineer at [Nerdery](https://nerdery.com) where I serve our client's needs for frontend (React) & backend (PHP)
+- I am the co-founder & Head of Product at [GoodRun](https://mn.goodrun.app), an application that offers a way for users to play pickup basketball and book gym rentals on a single platform.
+
 
 ### Favorite Tech
 - NextJS
