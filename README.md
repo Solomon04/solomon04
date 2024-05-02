@@ -1,35 +1,24 @@
 # Hi there 👋
 
-### Introduction
-I am Solomon, a software engineer that loves to find problems and implement technical solutions!
+## Introduction
+I'm Solomon Antoine, a dynamic software engineer with a proven track record in entrepreneurial ventures and technical leadership. Specializing in full-stack development, I have successfully founded and scaled tech platforms, merging innovative ideas with robust engineering practices.
 
-### What got me into tech?
-As an overly ambitious senior in high school, I learned I had a passion for entrepreneurship & management when l started my first company, FAVR, a two-sided marketplace allowing customers to request chores to be fulfilled by high school/college-age workers. Even though FAVR went bust, the technical skills I picked up while building the product allowed me to be hired as a software engineer right after high school graduation, despite not having a CS degree or Bootcamp cert.
+## What got me into tech?
+My tech journey began in high school when I founded FAVR, a marketplace for tasks and chores, sparking my interest in tech solutions. Though it didn't last, the experience paved my way into software engineering, enabling me to dive deep into both front-end and back-end technologies without formal qualifications.
 
-### What am I doing today?
-- My unorthodox journey as a software engineer inspired me to eventually start [Icodestuff](https://www.youtube.com/c/Icodestuff), a YouTube channel teaching short-form programming tutorials that have amassed over 100K views
-- I am a full-stack software engineer at [Nerdery](https://nerdery.com) where I serve our client's needs for frontend (React) & backend (PHP)
-- I am the co-founder & Head of Product at [GoodRun](https://mn.goodrun.app), an application that offers a way for users to play pickup basketball and book gym rentals on a single platform.
+## What am I doing today?
+- **[GoodRun](https://goodrun.app)**: As a Co-Founder, I built and scaled this sports connection app to $270K in revenue, supporting thousands of users and multiple facilities with complex booking and payment systems.
+- **[Icodestuff](https://icodestuff.io)**: I create and share programming tutorials across various platforms, growing a community of over 20,000 followers interested in modern web technologies.
+- **[Popus Gives](https://popus-gives.com)**: As a Fractional CTO, I developed a fundraising platform from scratch, incorporating advanced payment integrations and deployment strategies.
+- **Professional Roles**: At Petfinder, I led the integration of a GraphQL gateway to modernize their system architecture, and at Google Next, I developed key front-end components for high-visibility projects.
 
+## Favorite Tech
+- **Languages**: JavaScript, TypeScript, PHP, GraphQL
+- **Frameworks**: NextJS, Angular, Laravel, Symfony, React
+- **Tools**: AWS, Docker, Git, CI/CD with Jira
 
-### Favorite Tech
-- NextJS
-- Laravel
-- Vue
-- React
-- Typescript
+I thrive on solving complex problems and pushing the boundaries of technology to deliver exceptional user experiences and robust backend solutions. Let's connect!
 
-<!--
-**Solomon04/solomon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 📫 How to reach me: antoinesolomon5@gmail.com
+- 🔗 [LinkedIn](www.linkedin.com/in/solomonantoine-a52393152)
